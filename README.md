@@ -21,4 +21,4 @@ It follows a tier system where each tier contains target machines that can be pe
 - To challenge myself and find the hidden flags without guides or write-ups after learning the basic methodologies
 
 ## My Experience:
-I enjoyed how practical and methodical the process is. It allowed me to use real world virtual environments (VMs & VPNs) to pen test and understand a target machine. Specfically, the VM I am using is Pwnbox (a customized, online Parrot Security Linux distribution with many hacking tools pre-installed)
+I enjoyed how practical and methodical the process is. It allowed me to use real world virtual environments (VMs & VPNs) to pen test and understand a target machine. Specfically, the VM I am using is [Pwnbox](https://help.hackthebox.com/en/articles/5185608-introduction-to-pwnbox) (a customized, online Parrot Security Linux distribution with many hacking tools pre-installed)
