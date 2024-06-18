@@ -1,5 +1,5 @@
 # HackTheBox-Training
-Use of the HackTheBox platform to learn about techniques and tools used in the cybersecurity field
+Use of the HackTheBox platform to apply techniques and tools used in the cybersecurity field
 
 https://www.hackthebox.com/
 
