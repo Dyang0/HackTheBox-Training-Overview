@@ -2,7 +2,8 @@
 Use of the HackTheBox platform to apply techniques and tools used in the cybersecurity field
 
 https://www.hackthebox.com/
-*Box's get more difficult in higher tiers
+
+*Box's are more difficult in higher tiers
 
 ## Project Tiers
 [Tier 0](https://github.com/Dyang0/HackTheBox-Tier-0)
