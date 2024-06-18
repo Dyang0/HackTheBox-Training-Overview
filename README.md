@@ -4,6 +4,7 @@ Use of the HackTheBox platform to apply techniques and tools used in the cyberse
 [https://www.hackthebox.com/](https://app.hackthebox.com/starting-point)
 
 It follows a tier system where each tier contains target machines that can be pen-tested. The general goal is to answer revelvant questions and discover a flag
+
 *Box's are more difficult in higher tiers
 
 ## Project Tiers
