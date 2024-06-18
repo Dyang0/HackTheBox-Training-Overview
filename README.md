@@ -6,6 +6,7 @@ Use of the HackTheBox platform to apply techniques and tools used in the cyberse
 It follows a tier system where each tier contains target machines that can be pen-tested. The general goal is to answer revelvant questions and discover a flag (similar to a CTF)
 
 *Box's are more difficult in higher tiers
+*Machine names may seem arbitray (these were predefined on the website)
 
 ## Project Tiers
 [Tier 0](https://github.com/Dyang0/HackTheBox-Tier-0)
