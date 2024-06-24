@@ -12,7 +12,7 @@ It follows a tier system where each tier contains target machines that can be pe
 ## Project Tiers
 [Tier 0](https://github.com/Dyang0/HackTheBox-Tier-0)
 
-[Tier 1]([In Progress](https://github.com/Dyang0/HackTheBox-Tier-1))
+[Tier 1]((https://github.com/Dyang0/HackTheBox-Tier-1))
 
 [Tier 2] (In Progress)
 
