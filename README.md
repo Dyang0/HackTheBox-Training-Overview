@@ -5,11 +5,11 @@ Use of the HackTheBox platform to apply techniques and tools used in the cyberse
 
 It follows a tier system where each tier contains target machines that can be pen-tested. The general goal is to answer revelvant questions and discover a flag (similar to a CTF)
 
-*Box's are more difficult in higher tiers
+\* Box's are more difficult in higher tiers
 
-*Machine names may seem arbitray (these were predefined on the website)
+\* Machine names may seem arbitray (these were predefined on the website)
 
-*DISCLAIMER*
+\* DISCLAIMER \*
 
 - This is for learning purposes. All credit goes to HackTheBox. Furthermore, I will keep the solutions private for now and find ways to express my knowledge - as sharing solutions goes against the [terms of service](https://www.hackthebox.com/tos).
 
@@ -21,7 +21,7 @@ It follows a tier system where each tier contains target machines that can be pe
 
 [ Tier 2 ] 
 
-*Takeaways from each tier will be detailed soon. Due to the terms of service explained earlier, I can't share solutions directly.
+\* Takeaways from each tier will be detailed soon. Due to the terms of service explained earlier, I can't share solutions directly.
 
 ## Objectives:
 - Learn the basics of hacking tactics and techniques by using tools, scripts, and overall methodologies to find hidden flags
