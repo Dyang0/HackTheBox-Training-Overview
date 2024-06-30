@@ -14,11 +14,13 @@ DISCLAIMER
 - This is for learning purposes. All credit goes to HackTheBox. Furthermore, I will keep the solutions private for now and find ways to express my knowledge - as sharing solutions goes against the [terms of service](https://www.hackthebox.com/tos).
 
 ## Project Tiers
-[Tier 0](https://github.com/Dyang0/HackTheBox-Tier-0)
+[Tier 0]
 
-[Tier 1](https://github.com/Dyang0/HackTheBox-Tier-1)
+[Tier 1]
 
-[Tier 2] (In Progress)
+[Tier 2] 
+
+- Takeaways from each tier will be detailed soon. Due to the terms of service, I can't share solutions directly.
 
 ## Objectives:
 - Learn the basics of hacking tactics and techniques by using tools, scripts, and overall methodologies to find hidden flags
