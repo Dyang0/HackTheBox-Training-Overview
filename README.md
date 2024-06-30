@@ -9,6 +9,10 @@ It follows a tier system where each tier contains target machines that can be pe
 
 *Machine names may seem arbitray (these were predefined on the website)
 
+DISCLAIMER
+
+- This is for learning purposes. All credit goes to HackTheBox. Furthermore, I will keep the solutions private for now and find ways to express my knowledge - as sharing solutions goes against the [terms of service](https://www.hackthebox.com/tos).
+
 ## Project Tiers
 [Tier 0](https://github.com/Dyang0/HackTheBox-Tier-0)
 
