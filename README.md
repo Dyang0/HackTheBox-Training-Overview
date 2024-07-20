@@ -17,7 +17,7 @@ It follows a tier system where each tier contains target machines that can be pe
 
 ![image](https://github.com/user-attachments/assets/c29aced1-f579-403b-8804-7b2d6522de1b)
 
-\* **Takeaways from each tier will be detailed soon. Due to the terms of service explained earlier, I can't share solutions directly.**
+\* **Takeaways from each tier will be detailed soon. Due to the terms of service explained earlier, I can't share solutions directly.** \*
 
 ## Objectives:
 - Learn the basics of hacking tactics and techniques by using tools, scripts, and overall methodologies to find hidden flags
