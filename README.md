@@ -13,13 +13,9 @@ It follows a tier system where each tier contains target machines that can be pe
 
 - This is for learning purposes. All credit goes to HackTheBox. Furthermore, I will keep the solutions private for now and find ways to express my findings - as sharing solutions goes against the [terms of service](https://www.hackthebox.com/tos).
 
-## Project Tiers
+## [Project Tiers](https://app.hackthebox.com/starting-point)
 
-[ Tier 0 ]
-
-[ Tier 1 ]
-
-[ Tier 2 ] 
+![image](https://github.com/user-attachments/assets/c29aced1-f579-403b-8804-7b2d6522de1b)
 
 \* Takeaways from each tier will be detailed soon. Due to the terms of service explained earlier, I can't share solutions directly.
 
