@@ -11,7 +11,7 @@ It follows a tier system where each tier contains target machines that can be pe
 
 \* DISCLAIMER \*
 
-- This is for learning purposes. All credit goes to HackTheBox. Furthermore, I will keep the solutions private for now and find ways to express my knowledge - as sharing solutions goes against the [terms of service](https://www.hackthebox.com/tos).
+- This is for learning purposes. All credit goes to HackTheBox. Furthermore, I will keep the solutions private for now and find ways to express my findings - as sharing solutions goes against the [terms of service](https://www.hackthebox.com/tos).
 
 ## Project Tiers
 
